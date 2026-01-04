@@ -15,8 +15,9 @@ Focused on **ASP.NET, AI/ML, and full-stack development**, delivering efficient 
 
 🛠 **Tech Stack**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,php,cs,js,python,html,css,dotnet,django,laravel,vue,bootstrap,postgresql,git,github,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=java,php,cs,js,python,html,css,dotnet,django,laravel,vue,bootstrap,postgresql,mssql,git,github,androidstudio" />
 </p>
+
 
 ---
 
