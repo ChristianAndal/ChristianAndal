@@ -8,7 +8,7 @@
 ---
 
 💡 **About Me**  
-Software Developer with **3+ years of experience** in building web, enterprise, and AI-driven solutions.  
+Software Developer with **4+ years of experience** in building web, enterprise, and AI-driven solutions.  
 Focused on **ASP.NET, AI/ML, and full-stack development**, delivering efficient and scalable systems.
 
 ---
